@@ -14,7 +14,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-#include "../inc/IntDigitalIn.h"
+#include "../include/IntDigitalIn.h"
 
 IntDigitalIn::IntDigitalIn(PinName name) {
 	_pin = new DigitalIn(name);

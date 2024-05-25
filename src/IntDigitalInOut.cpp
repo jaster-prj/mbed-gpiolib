@@ -14,7 +14,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-#include "../inc/IntDigitalInOut.h"
+#include "../include/IntDigitalInOut.h"
 
 IntDigitalInOut::IntDigitalInOut(PinName name) {
 	_pin = new DigitalInOut(name);

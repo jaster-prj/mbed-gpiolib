@@ -14,7 +14,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-#include "../inc/ExpPortInOut.h"
+#include "../include/ExpPortInOut.h"
 
 #if DEVICE_EXPANSION
 

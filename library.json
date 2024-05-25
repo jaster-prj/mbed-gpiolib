@@ -1,6 +1,6 @@
 {
   "name": "GPIOLib",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "MBED OS Library for GPIO Abstraction to switch between internal and external gpios",
   "keywords": "gpio, mbed os",
   "repository":

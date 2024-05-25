@@ -14,7 +14,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-#include "../inc/IntInterruptIn.h"
+#include "../include/IntInterruptIn.h"
 
 IntInterruptIn::IntInterruptIn(PinName name) {
 	_pin = new InterruptIn(name);

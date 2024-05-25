@@ -14,7 +14,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-#include "../inc/IntPortInOut.h"
+#include "../include/IntPortInOut.h"
 
 IntPortInOut::IntPortInOut(PortName name, int mask) {
 	_port = new PortInOut(name, mask);

@@ -14,7 +14,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-#include "../inc/ExpDigitalInOut.h"
+#include "../include/ExpDigitalInOut.h"
 
 #if DEVICE_EXPANSION
 

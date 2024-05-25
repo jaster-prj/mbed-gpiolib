@@ -14,7 +14,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-#include "../inc/ExpInterruptIn.h"
+#include "../include/ExpInterruptIn.h"
 
 #if DEVICE_EXPANSION
 
